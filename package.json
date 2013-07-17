@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-hp-asm",
 	"author": "Jean Gabes",
-	"description": "",
+	"description": "Checks for HP proliant servers",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -18,6 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-hp-asm",
 	"keywords": [
 	  "pack",
+	  "hp",
+	  "proliant"
 	  
 	],
 	"dependencies": {
